@@ -1,1 +1,3 @@
-.# Light-Launcher-TV
+# Light-Launcher-TV
+Простой лаунчер для ТВ.
+Поставить apk через флешку на ТВ
